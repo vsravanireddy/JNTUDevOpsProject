@@ -20,5 +20,8 @@
             <version>5.9.1</version>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>jntuproject-jenkins-docker</finalName>
+    </build>
 
 </project>
