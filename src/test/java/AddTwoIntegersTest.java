@@ -4,10 +4,10 @@ public class AddTwoIntegersTest {
     @Test
     public void testAddIntegers()
             {
-                int Num1 = 10;
-                int Num2 = 20;
-                int sum = Num1 + Num2;
-                System.out.println(Num1 + " + " + Num2 + " = "  + sum);
+                int Number1 = 10;
+                int Number2 = 20;
+                int sum = Number1 + Number2;
+                System.out.println(Number1 + " + " + Number2 + " = "  + sum);
             }
  }
 
