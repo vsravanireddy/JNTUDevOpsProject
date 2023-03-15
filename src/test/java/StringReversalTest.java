@@ -2,13 +2,15 @@ import org.junit.jupiter.api.Test;
 
 
 public class StringReversalTest {
+
+    @Test
     public static void main(String[] args) {
         String str = "This is my project for JNTU";
         String reversedStr = stringReversal(str);
         System.out.println("Given String: " + str);
         System.out.println("Reversed String: " + reversedStr);
     }
-    @Test
+
     public static String stringReversal(String str) {
         if (str == null || str.length() == 0) {
             return str;
