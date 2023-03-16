@@ -4,8 +4,7 @@ import org.junit.jupiter.api.Test;
 public class StringReversalTest {
 
     @Test
-
-    public void  stringReversal() {
+    public void  testStringReversal() {
         String str = "This is my project for JNTU";
         System.out.println("Given String: " + str);
 
