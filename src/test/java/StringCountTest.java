@@ -14,7 +14,7 @@ public class StringCountTest {
             }
         }
 
-        System.out.println("Number of characters in given String: " + count);
+        System.out.println("Number of characters in given String : " + count);
     }
 }
 
