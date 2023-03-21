@@ -18,6 +18,8 @@ public class Main {
         System.out.println("Sorting the given list in ascending order test...");
         System.out.println("..................");
         testSorting(new int [] {89, 43, 15, 1, 12, 22, 67, 32, 56});
+        System.out.println("Counting the number of characters in given string test...");
+        System.out.println("..................");
         testStringCount("This is a test added in main class to be executed with java application");
 
     }
