@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("This is my project for JNTU Cloud & DevOps certification program!");
+        System.out.println("This is my project for JNTU Cloud & DevOps certification program !");
         System.out.println("Add two integers test...");
         System.out.println("..................");
         testAddIntegers();
