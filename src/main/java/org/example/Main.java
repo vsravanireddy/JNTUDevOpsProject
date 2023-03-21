@@ -4,8 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("This is my project for JNTU Cloud & DevOps certification program!");
+        testAddIntegers();
     }
-    public void testAddIntegers()
+
+    public static void testAddIntegers()
     {
         int Number1 = 10;
         int Number2 = 20;
