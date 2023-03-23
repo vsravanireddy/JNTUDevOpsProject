@@ -22,7 +22,6 @@ public class Main {
         System.out.println("..................");
         testStringCount("This is a test added in main class to be executed with java application");
 
-
     }
 
     public static void testAddIntegers()
