@@ -21,7 +21,6 @@ public class Main {
         System.out.println("Counting the number of characters in given string test...");
         System.out.println("..................");
         testStringCount("This is a test added in main class to be executed with java application");
-        System.out.println("..................");
 
     }
 
