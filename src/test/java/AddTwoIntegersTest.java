@@ -8,6 +8,7 @@ public class AddTwoIntegersTest {
                 int Number2 = 20;
                 int sum = Number1 + Number2;
                 System.out.println("Output of adding two integres test is: " +  Number1 + " + " + Number2 + " = "  + sum);
+                //New line added now
             }
  }
 
